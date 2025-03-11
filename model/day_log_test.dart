@@ -1,6 +1,7 @@
 import 'package:flutter_test/flutter_test.dart';
 import 'package:onlight/model/day_log.dart';
 import 'package:onlight/model/logg.dart';
+import 'package:onlight/model/logg_type.dart';
 
 void main() {
   test('Creates an empty daylog when no logs are submitted', () {
